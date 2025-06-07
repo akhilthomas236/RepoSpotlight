@@ -2,6 +2,8 @@
 
 A Streamlit application that showcases GitHub projects with configurable repository locations. The app reads README files and project metadata to build a comprehensive project showcase page. It displays projects in an attractive tile layout and can be deployed to Streamlit Community Cloud with persistent data storage.
 
+**Access the live app here:** [https://repospotlight.streamlit.app/](https://repospotlight.streamlit.app/)
+
 ## Features
 
 - ✨ Spotlight your best work in a beautiful interface
