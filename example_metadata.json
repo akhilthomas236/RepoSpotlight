@@ -1,0 +1,35 @@
+{
+  "project_name": "Demo Project",
+  "tagline": "A sample project to demonstrate the GitHub Project Showcase",
+  "showcase_image": "https://via.placeholder.com/800x400?text=Demo+Project+Screenshot",
+  "demo_url": "https://example.com/demo",
+  "documentation_url": "https://example.com/docs",
+  "features": [
+    "Feature showcase with screenshots",
+    "Technical details and architecture",
+    "Installation and usage instructions"
+  ],
+  "tech_stack": [
+    "Python",
+    "Streamlit",
+    "GitHub API",
+    "Markdown"
+  ],
+  "contact": {
+    "email": "contact@example.com",
+    "twitter": "demo_project",
+    "linkedin": "demo-project-linkedin"
+  },
+  "contributors": [
+    {
+      "name": "Main Contributor",
+      "github": "contributor1",
+      "role": "Project Lead"
+    },
+    {
+      "name": "Second Contributor",
+      "github": "contributor2",
+      "role": "Developer"
+    }
+  ]
+}

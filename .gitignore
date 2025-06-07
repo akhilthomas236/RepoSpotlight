@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/secrets*.toml
+.streamlit/*.bak
+
+# SQLite - Include github_projects.db as fallback but exclude temporary files
+# and any other database files
+*.db-shm
+*.db-wal
+*.db
+!github_projects.db
+
+# Firebase
+*firebase*.json
+firebase-*.json
+*serviceAccount*.json
+*service-account*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
